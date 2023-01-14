@@ -2,7 +2,7 @@
 
 ### About Me
 I'm a final year student who want to learn more about cybersecurity.  
-Currently trying to get used to joining Capture The Flag (CTF) events.
+Currently trying to get used to joining Capture The Flag (CTF) events.  
 I want to utilize this platform to contribute more to the community.
 
 <!--
