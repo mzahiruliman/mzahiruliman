@@ -1,7 +1,7 @@
 # Hi👋 Zack here!
 
 ### About Me
-I'm nobody
+I'm nobody. Same thing should be applied to those reading this too. The digital world is very dangerous now. If you expose too much of your information in the public, they can get your data in the matter of seconds. Stay safe!
 
 <!--
 **mzahiruliman/mzahiruliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
